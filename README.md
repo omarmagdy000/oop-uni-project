@@ -1,6 +1,4 @@
-# oop-uni-project
-An Hotel Reservation System that applies OOP concepts.
-# 🏨 Hotel Reservation System (Backend - Java OOP)
+# 🏨 Hotel Reservation System
 
 ## 📌 Objective
 
@@ -201,21 +199,10 @@ ArrayList<Invoice> invoices;
 
 ---
 
-## 🧠 OOP Principles Applied
-
-* **Encapsulation** → private fields + getters/setters
-* **Inheritance** → `Staff` → `Admin`, `Receptionist`
-* **Polymorphism** → method overriding where needed
-* **Abstraction** → clean class responsibilities
-
----
-
 ## 🚀 Future Improvements
 
 * Add GUI (JavaFX / Swing)
-* Connect to real database (MySQL / PostgreSQL)
-* Implement authentication & security layers
-* Add REST API (Spring Boot)
+
 
 ---
 
