@@ -1,3 +1,6 @@
 package enums;
 
-public enum genders {Male,female}
+public enum genders {
+    MALE,
+    FEMALE
+}
